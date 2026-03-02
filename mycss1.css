@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(226, 248, 254);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align: justify;
+}
+
+#publish {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.judulgambar {
+    text-align: center;
+    font-size: 10px;
+}
+
+.headline {
+    text-align: center;
+    color: blue;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.agaktengah {
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 150px;
+    margin-left: 80px;
+}
+
+.judultengahin {
+    margin-left: 50px;
+}
+
+.framegambar {
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgb(154, 182, 190);
+}
